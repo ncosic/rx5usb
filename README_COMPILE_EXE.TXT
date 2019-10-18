@@ -1,0 +1,1 @@
+Currently there are no executable files in gui-tool. You have to compile the tool. Download the Free Pascal https://www.freepascal.org/download.var and Lazarus IDE https://www.lazarus-ide.org/index.php?page=downloads, install both in default location. Open the project file from Lazarus, and click build. This should give you your working .exe 
